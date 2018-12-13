@@ -51,3 +51,6 @@ contract Bidding
     
     
 }
+
+
+//this dapp is developed from udemy course "Ethereum and Solidity: The Complete Developer's Guide(https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)"
