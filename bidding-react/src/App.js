@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 //import logo from './logo.svg';
 import './App.css';
 import web3 from './web3';
-import bidding from './bidding';
+import bidding from './bidding'; 
 
 
 export default class App extends Component {
